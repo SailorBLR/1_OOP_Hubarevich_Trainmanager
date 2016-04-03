@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+
+    <entry key="firstClassBase">New_York</entry>
+    <entry key="firstClassPassengers">70</entry>
+    <entry key="firstClassCost">200</entry>
+    <entry key="firstClassCargo">70</entry>
+    <entry key="firstClassWifi">111111</entry>
+
+    <entry key="secondClassBase">New_York</entry>
+    <entry key="secondClassPassengers">100</entry>
+    <entry key="secondClassCost">100</entry>
+    <entry key="secondClassCargo">100</entry>
+    <entry key="secondClassTv">3</entry>
+
+    <entry key="thirdClassBase">New_York</entry>
+    <entry key="thirdClassPassengers">70</entry>
+    <entry key="thirdClassCost">50</entry>
+    <entry key="thirdClassCargo">100</entry>
+
+</properties>

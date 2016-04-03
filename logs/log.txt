@@ -1,0 +1,3 @@
+ERROR - by.hubarevich.trainsystem.exception.WrongInputException: You can't use values <= 0
+ERROR - by.hubarevich.trainsystem.exception.WrongInputException: You can't use values <= 0
+ERROR - by.hubarevich.trainsystem.exception.WrongInputException: You can't use values <= 0
